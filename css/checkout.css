@@ -1,0 +1,118 @@
+.checkout-page {
+  padding: var(--space-3xl) 0 var(--space-4xl);
+}
+
+.checkout-header {
+  text-align: center;
+  margin-bottom: var(--space-2xl);
+}
+
+.checkout-header h1 {
+  font-size: var(--font-size-3xl);
+  margin-bottom: var(--space-sm);
+}
+
+.checkout-header p {
+  color: var(--color-text-secondary);
+}
+
+.checkout-layout {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: var(--space-xl);
+  align-items: start;
+}
+
+.checkout-panel,
+.checkout-summary,
+.checkout-empty {
+  background: var(--color-surface);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-sm);
+  padding: var(--space-xl);
+}
+
+.checkout-form__row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 0.7fr;
+  gap: var(--space-md);
+}
+
+.checkout-payment {
+  margin: var(--space-lg) 0;
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-md);
+  padding: var(--space-md);
+}
+
+.checkout-payment__legend {
+  padding: 0 var(--space-xs);
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+}
+
+.checkout-payment__option {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-sm);
+  font-size: var(--font-size-sm);
+}
+
+.checkout-card-fields {
+  margin-top: var(--space-sm);
+  padding-top: var(--space-md);
+  border-top: 1px dashed var(--color-border-light);
+}
+
+.checkout-items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+  margin: var(--space-md) 0 var(--space-lg);
+}
+
+.checkout-item {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-md);
+  font-size: var(--font-size-sm);
+}
+
+.checkout-summary__row {
+  display: flex;
+  justify-content: space-between;
+  padding: var(--space-sm) 0;
+}
+
+.checkout-summary__row--total {
+  border-top: 1px solid var(--color-border-light);
+  margin-top: var(--space-sm);
+  padding-top: var(--space-md);
+  font-size: var(--font-size-lg);
+}
+
+.checkout-empty {
+  text-align: center;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.checkout-empty h2 {
+  margin-bottom: var(--space-sm);
+}
+
+.checkout-empty p {
+  margin-bottom: var(--space-lg);
+  color: var(--color-text-secondary);
+}
+
+@media (max-width: 900px) {
+  .checkout-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .checkout-form__row {
+    grid-template-columns: 1fr;
+  }
+}

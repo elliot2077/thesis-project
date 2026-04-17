@@ -1,0 +1,1204 @@
+{
+  "categories": [
+    {
+      "id": "iphones",
+      "nameKey": "categories.iphones",
+      "descriptionKey": "categories.iphones_desc",
+      "icon": "📱"
+    },
+    {
+      "id": "macbooks",
+      "nameKey": "categories.macbooks",
+      "descriptionKey": "categories.macbooks_desc",
+      "icon": "💻"
+    },
+    {
+      "id": "accessories",
+      "nameKey": "categories.accessories",
+      "descriptionKey": "categories.accessories_desc",
+      "icon": "🎧"
+    }
+  ],
+  "products": [
+    {
+      "id": "iphone-15-pro-max",
+      "category": "iphones",
+      "name": "iPhone 15 Pro Max",
+      "image": "https://dms.mydukaan.io/original/jpeg/media/786bbc7c-93ec-4d27-85f8-44b1cecbe3c0.png",
+      "taglineKey": "products.iphone_15_pro_max.tagline",
+      "descriptionKey": "products.iphone_15_pro_max.description",
+      "price": 1199,
+      "badge": "New",
+      "featured": true,
+      "gradient": "linear-gradient(135deg, #1b1b1f 0%, #3a3a4a 50%, #6e6e80 100%)",
+      "colors": [
+        {
+          "name": "Natural Titanium",
+          "hex": "#938578"
+        },
+        {
+          "name": "Blue Titanium",
+          "hex": "#3d4654"
+        },
+        {
+          "name": "White Titanium",
+          "hex": "#f2f1eb"
+        },
+        {
+          "name": "Black Titanium",
+          "hex": "#3c3b37"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "6.7\"",
+          "type": "Super Retina XDR OLED",
+          "resolution": "2796 x 1290",
+          "ppi": 460,
+          "brightness": "2000 nits (peak outdoor)",
+          "refreshRate": "1-120Hz ProMotion",
+          "features": ["Always-On Display", "Dynamic Island", "HDR"]
+        },
+        "chip": "A17 Pro",
+        "cpu": "6-core CPU (2 performance + 4 efficiency)",
+        "gpu": "6-core GPU with hardware ray tracing",
+        "camera": {
+          "main": "48 MP Main ƒ/1.78",
+          "ultrawide": "12 MP Ultra Wide ƒ/2.2",
+          "telephoto": "12 MP Telephoto 5x optical zoom",
+          "front": "12 MP TrueDepth ƒ/1.9",
+          "video": "4K Cinematic mode, ProRes, Action mode"
+        },
+        "storageOptions": [
+          {
+            "size": "256GB",
+            "priceAdd": 0
+          },
+          {
+            "size": "512GB",
+            "priceAdd": 200
+          },
+          {
+            "size": "1TB",
+            "priceAdd": 400
+          }
+        ],
+        "ram": "8 GB",
+        "battery": "Up to 29 hours video playback",
+        "os": "iOS 17",
+        "weight": "221 g",
+        "dimensions": "159.9 x 76.7 x 8.25 mm",
+        "connectivity": [
+          "5G",
+          "Wi-Fi 6E",
+          "Bluetooth 5.3",
+          "USB-C 3",
+          "NFC",
+          "Ultra Wideband 2"
+        ],
+        "waterResistance": "IP68 (6 meters, 30 minutes)",
+        "security": "Face ID",
+        "material": "Titanium frame, Ceramic Shield front"
+      }
+    },
+    {
+      "id": "iphone-15-pro",
+      "category": "iphones",
+      "name": "iPhone 15 Pro",
+      "image": "https://dms.mydukaan.io/original/jpeg/media/786bbc7c-93ec-4d27-85f8-44b1cecbe3c0.png",
+      "taglineKey": "products.iphone_15_pro.tagline",
+      "descriptionKey": "products.iphone_15_pro.description",
+      "price": 999,
+      "badge": "New",
+      "featured": true,
+      "gradient": "linear-gradient(135deg, #2c2c3a 0%, #48485c 50%, #7a7a92 100%)",
+      "colors": [
+        {
+          "name": "Natural Titanium",
+          "hex": "#938578"
+        },
+        {
+          "name": "Blue Titanium",
+          "hex": "#3d4654"
+        },
+        {
+          "name": "White Titanium",
+          "hex": "#f2f1eb"
+        },
+        {
+          "name": "Black Titanium",
+          "hex": "#3c3b37"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "6.1\"",
+          "type": "Super Retina XDR OLED",
+          "resolution": "2556 x 1179",
+          "ppi": 460,
+          "brightness": "2000 nits (peak outdoor)",
+          "refreshRate": "1-120Hz ProMotion",
+          "features": ["Always-On Display", "Dynamic Island", "HDR"]
+        },
+        "chip": "A17 Pro",
+        "cpu": "6-core CPU (2 performance + 4 efficiency)",
+        "gpu": "6-core GPU with hardware ray tracing",
+        "camera": {
+          "main": "48 MP Main ƒ/1.78",
+          "ultrawide": "12 MP Ultra Wide ƒ/2.2",
+          "telephoto": "12 MP Telephoto 3x optical zoom",
+          "front": "12 MP TrueDepth ƒ/1.9",
+          "video": "4K Cinematic mode, ProRes, Action mode"
+        },
+        "storageOptions": [
+          {
+            "size": "128GB",
+            "priceAdd": 0
+          },
+          {
+            "size": "256GB",
+            "priceAdd": 100
+          },
+          {
+            "size": "512GB",
+            "priceAdd": 300
+          },
+          {
+            "size": "1TB",
+            "priceAdd": 500
+          }
+        ],
+        "ram": "8 GB",
+        "battery": "Up to 23 hours video playback",
+        "os": "iOS 17",
+        "weight": "187 g",
+        "dimensions": "146.6 x 70.6 x 8.25 mm",
+        "connectivity": [
+          "5G",
+          "Wi-Fi 6E",
+          "Bluetooth 5.3",
+          "USB-C 3",
+          "NFC",
+          "Ultra Wideband 2"
+        ],
+        "waterResistance": "IP68 (6 meters, 30 minutes)",
+        "security": "Face ID",
+        "material": "Titanium frame, Ceramic Shield front"
+      }
+    },
+    {
+      "id": "iphone-15",
+      "category": "iphones",
+      "name": "iPhone 15",
+      "image": "https://stratanetworks.com/wp-content/uploads/2023/09/iPhone-15-Pink.png",
+      "taglineKey": "products.iphone_15.tagline",
+      "descriptionKey": "products.iphone_15.description",
+      "price": 799,
+      "badge": "",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #f0c4d8 0%, #c8a8e0 50%, #a0b8f0 100%)",
+      "colors": [
+        {
+          "name": "Pink",
+          "hex": "#f0c4d8"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#f0e060"
+        },
+        {
+          "name": "Green",
+          "hex": "#c0dca0"
+        },
+        {
+          "name": "Blue",
+          "hex": "#7eb8d8"
+        },
+        {
+          "name": "Black",
+          "hex": "#3c3c3e"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "6.1\"",
+          "type": "Super Retina XDR OLED",
+          "resolution": "2556 x 1179",
+          "ppi": 460,
+          "brightness": "2000 nits (peak outdoor)",
+          "refreshRate": "60Hz",
+          "features": ["Dynamic Island", "HDR", "True Tone"]
+        },
+        "chip": "A16 Bionic",
+        "cpu": "6-core CPU (2 performance + 4 efficiency)",
+        "gpu": "5-core GPU",
+        "camera": {
+          "main": "48 MP Main ƒ/1.6",
+          "ultrawide": "12 MP Ultra Wide ƒ/2.4",
+          "front": "12 MP TrueDepth ƒ/1.9",
+          "video": "4K Cinematic mode, Action mode"
+        },
+        "storageOptions": [
+          {
+            "size": "128GB",
+            "priceAdd": 0
+          },
+          {
+            "size": "256GB",
+            "priceAdd": 100
+          },
+          {
+            "size": "512GB",
+            "priceAdd": 300
+          }
+        ],
+        "ram": "6 GB",
+        "battery": "Up to 20 hours video playback",
+        "os": "iOS 17",
+        "weight": "171 g",
+        "dimensions": "147.6 x 71.6 x 7.80 mm",
+        "connectivity": ["5G", "Wi-Fi 6", "Bluetooth 5.3", "USB-C 2", "NFC"],
+        "waterResistance": "IP68 (6 meters, 30 minutes)",
+        "security": "Face ID",
+        "material": "Aluminum frame, Ceramic Shield front"
+      }
+    },
+    {
+      "id": "iphone-15-plus",
+      "category": "iphones",
+      "name": "iPhone 15 Plus",
+      "image": "https://stratanetworks.com/wp-content/uploads/2023/09/iPhone-15-Plus-Yellow.png",
+      "taglineKey": "products.iphone_15_plus.tagline",
+      "descriptionKey": "products.iphone_15_plus.description",
+      "price": 899,
+      "badge": "",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #c0dca0 0%, #a0c8e0 50%, #80b0f0 100%)",
+      "colors": [
+        {
+          "name": "Pink",
+          "hex": "#f0c4d8"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#f0e060"
+        },
+        {
+          "name": "Green",
+          "hex": "#c0dca0"
+        },
+        {
+          "name": "Blue",
+          "hex": "#7eb8d8"
+        },
+        {
+          "name": "Black",
+          "hex": "#3c3c3e"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "6.7\"",
+          "type": "Super Retina XDR OLED",
+          "resolution": "2796 x 1290",
+          "ppi": 460,
+          "brightness": "2000 nits (peak outdoor)",
+          "refreshRate": "60Hz",
+          "features": ["Dynamic Island", "HDR", "True Tone"]
+        },
+        "chip": "A16 Bionic",
+        "cpu": "6-core CPU (2 performance + 4 efficiency)",
+        "gpu": "5-core GPU",
+        "camera": {
+          "main": "48 MP Main ƒ/1.6",
+          "ultrawide": "12 MP Ultra Wide ƒ/2.4",
+          "front": "12 MP TrueDepth ƒ/1.9",
+          "video": "4K Cinematic mode, Action mode"
+        },
+        "storageOptions": [
+          {
+            "size": "128GB",
+            "priceAdd": 0
+          },
+          {
+            "size": "256GB",
+            "priceAdd": 100
+          },
+          {
+            "size": "512GB",
+            "priceAdd": 300
+          }
+        ],
+        "ram": "6 GB",
+        "battery": "Up to 26 hours video playback",
+        "os": "iOS 17",
+        "weight": "201 g",
+        "dimensions": "160.9 x 77.8 x 7.80 mm",
+        "connectivity": ["5G", "Wi-Fi 6", "Bluetooth 5.3", "USB-C 2", "NFC"],
+        "waterResistance": "IP68 (6 meters, 30 minutes)",
+        "security": "Face ID",
+        "material": "Aluminum frame, Ceramic Shield front"
+      }
+    },
+    {
+      "id": "iphone-14",
+      "category": "iphones",
+      "name": "iPhone 14",
+      "image": "https://pngimg.com/d/iphone_14_PNG41.png",
+      "taglineKey": "products.iphone_14.tagline",
+      "descriptionKey": "products.iphone_14.description",
+      "price": 699,
+      "badge": "",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #6667ab 0%, #8e8ec8 50%, #b4b4e0 100%)",
+      "colors": [
+        {
+          "name": "Midnight",
+          "hex": "#2e3138"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f5f0e8"
+        },
+        {
+          "name": "Red",
+          "hex": "#d82832"
+        },
+        {
+          "name": "Blue",
+          "hex": "#a0b4d0"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e5ddea"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#f9e86c"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "6.1\"",
+          "type": "Super Retina XDR OLED",
+          "resolution": "2532 x 1170",
+          "ppi": 460,
+          "brightness": "1200 nits (peak HDR)",
+          "refreshRate": "60Hz",
+          "features": ["HDR", "True Tone", "Haptic Touch"]
+        },
+        "chip": "A15 Bionic",
+        "cpu": "6-core CPU (2 performance + 4 efficiency)",
+        "gpu": "5-core GPU",
+        "camera": {
+          "main": "12 MP Main ƒ/1.5",
+          "ultrawide": "12 MP Ultra Wide ƒ/2.4",
+          "front": "12 MP TrueDepth ƒ/1.9",
+          "video": "4K Cinematic mode, Action mode"
+        },
+        "storageOptions": [
+          {
+            "size": "128GB",
+            "priceAdd": 0
+          },
+          {
+            "size": "256GB",
+            "priceAdd": 100
+          },
+          {
+            "size": "512GB",
+            "priceAdd": 300
+          }
+        ],
+        "ram": "6 GB",
+        "battery": "Up to 20 hours video playback",
+        "os": "iOS 17",
+        "weight": "172 g",
+        "dimensions": "146.7 x 71.5 x 7.80 mm",
+        "connectivity": ["5G", "Wi-Fi 6", "Bluetooth 5.3", "Lightning", "NFC"],
+        "waterResistance": "IP68 (6 meters, 30 minutes)",
+        "security": "Face ID",
+        "material": "Aluminum frame, Ceramic Shield front"
+      }
+    },
+    {
+      "id": "macbook-pro-16-m3-max",
+      "category": "macbooks",
+      "name": "MacBook Pro 16\" M3 Max",
+      "image": "https://crdms.images.consumerreports.org/prod/products/cr/models/412423-15-to-16-inch-laptops-apple-macbook-pro-16-14-core-m3-max-1tb-10037403.png",
+      "taglineKey": "products.mbp_16_m3_max.tagline",
+      "descriptionKey": "products.mbp_16_m3_max.description",
+      "price": 3499,
+      "badge": "Pro",
+      "featured": true,
+      "gradient": "linear-gradient(135deg, #2d2d2f 0%, #4a4a4e 50%, #1a1a1c 100%)",
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2d2d2f"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "16.2\"",
+          "type": "Liquid Retina XDR",
+          "resolution": "3456 x 2234",
+          "ppi": 254,
+          "brightness": "1600 nits (peak XDR)",
+          "refreshRate": "24-120Hz ProMotion",
+          "features": ["XDR", "P3 Wide Color", "True Tone"]
+        },
+        "chip": "Apple M3 Max",
+        "cpu": "16-core CPU (12 performance + 4 efficiency)",
+        "gpu": "40-core GPU",
+        "neuralEngine": "16-core Neural Engine",
+        "camera": {
+          "front": "1080p FaceTime HD camera"
+        },
+        "storageOptions": [
+          {
+            "size": "1TB SSD",
+            "priceAdd": 0
+          },
+          {
+            "size": "2TB SSD",
+            "priceAdd": 200
+          },
+          {
+            "size": "4TB SSD",
+            "priceAdd": 600
+          },
+          {
+            "size": "8TB SSD",
+            "priceAdd": 1200
+          }
+        ],
+        "ram": "48 GB Unified Memory",
+        "ramOptions": ["48 GB", "64 GB (+$200)", "128 GB (+$400)"],
+        "battery": "Up to 22 hours",
+        "os": "macOS Sonoma",
+        "weight": "2.14 kg",
+        "dimensions": "35.57 x 24.81 x 1.68 cm",
+        "connectivity": [
+          "Wi-Fi 6E",
+          "Bluetooth 5.3",
+          "HDMI 2.1",
+          "SDXC card slot",
+          "MagSafe 3",
+          "3x Thunderbolt 4 (USB-C)",
+          "3.5mm headphone jack"
+        ],
+        "keyboard": "Backlit Magic Keyboard with Touch ID",
+        "trackpad": "Force Touch trackpad",
+        "speakers": "Six-speaker sound system with Spatial Audio"
+      }
+    },
+    {
+      "id": "macbook-pro-14-m3-pro",
+      "category": "macbooks",
+      "name": "MacBook Pro 14\" M3 Pro",
+      "image": "https://helloklyk.com/cdn/shop/files/139069.png?v=1746996840&width=1280",
+      "taglineKey": "products.mbp_14_m3_pro.tagline",
+      "descriptionKey": "products.mbp_14_m3_pro.description",
+      "price": 1999,
+      "badge": "Pro",
+      "featured": true,
+      "gradient": "linear-gradient(135deg, #4a4a4e 0%, #636368 50%, #2d2d2f 100%)",
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#2d2d2f"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "14.2\"",
+          "type": "Liquid Retina XDR",
+          "resolution": "3024 x 1964",
+          "ppi": 254,
+          "brightness": "1600 nits (peak XDR)",
+          "refreshRate": "24-120Hz ProMotion",
+          "features": ["XDR", "P3 Wide Color", "True Tone"]
+        },
+        "chip": "Apple M3 Pro",
+        "cpu": "12-core CPU (6 performance + 6 efficiency)",
+        "gpu": "18-core GPU",
+        "neuralEngine": "16-core Neural Engine",
+        "camera": {
+          "front": "1080p FaceTime HD camera"
+        },
+        "storageOptions": [
+          {
+            "size": "512GB SSD",
+            "priceAdd": 0
+          },
+          {
+            "size": "1TB SSD",
+            "priceAdd": 200
+          },
+          {
+            "size": "2TB SSD",
+            "priceAdd": 400
+          },
+          {
+            "size": "4TB SSD",
+            "priceAdd": 800
+          }
+        ],
+        "ram": "18 GB Unified Memory",
+        "ramOptions": ["18 GB", "36 GB (+$200)"],
+        "battery": "Up to 17 hours",
+        "os": "macOS Sonoma",
+        "weight": "1.61 kg",
+        "dimensions": "31.26 x 22.12 x 1.55 cm",
+        "connectivity": [
+          "Wi-Fi 6E",
+          "Bluetooth 5.3",
+          "HDMI 2.1",
+          "SDXC card slot",
+          "MagSafe 3",
+          "3x Thunderbolt 4 (USB-C)",
+          "3.5mm headphone jack"
+        ],
+        "keyboard": "Backlit Magic Keyboard with Touch ID",
+        "trackpad": "Force Touch trackpad",
+        "speakers": "Six-speaker sound system with Spatial Audio"
+      }
+    },
+    {
+      "id": "macbook-air-15-m3",
+      "category": "macbooks",
+      "name": "MacBook Air 15\" M3",
+      "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/mba_15_m3_2024_hero.png",
+      "taglineKey": "products.mba_15_m3.tagline",
+      "descriptionKey": "products.mba_15_m3.description",
+      "price": 1299,
+      "badge": "",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #d4d4d8 0%, #e8e8ec 50%, #f5f5f7 100%)",
+      "colors": [
+        {
+          "name": "Midnight",
+          "hex": "#2e3138"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f5f0e8"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "#7d7e80"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "15.3\"",
+          "type": "Liquid Retina",
+          "resolution": "2880 x 1864",
+          "ppi": 224,
+          "brightness": "500 nits",
+          "refreshRate": "60Hz",
+          "features": ["P3 Wide Color", "True Tone"]
+        },
+        "chip": "Apple M3",
+        "cpu": "8-core CPU (4 performance + 4 efficiency)",
+        "gpu": "10-core GPU",
+        "neuralEngine": "16-core Neural Engine",
+        "camera": {
+          "front": "1080p FaceTime HD camera"
+        },
+        "storageOptions": [
+          {
+            "size": "256GB SSD",
+            "priceAdd": 0
+          },
+          {
+            "size": "512GB SSD",
+            "priceAdd": 200
+          },
+          {
+            "size": "1TB SSD",
+            "priceAdd": 400
+          },
+          {
+            "size": "2TB SSD",
+            "priceAdd": 600
+          }
+        ],
+        "ram": "8 GB Unified Memory",
+        "ramOptions": ["8 GB", "16 GB (+$200)", "24 GB (+$400)"],
+        "battery": "Up to 18 hours",
+        "os": "macOS Sonoma",
+        "weight": "1.51 kg",
+        "dimensions": "34.04 x 23.76 x 1.15 cm",
+        "connectivity": [
+          "Wi-Fi 6E",
+          "Bluetooth 5.3",
+          "MagSafe 3",
+          "2x Thunderbolt / USB 4",
+          "3.5mm headphone jack"
+        ],
+        "keyboard": "Backlit Magic Keyboard with Touch ID",
+        "trackpad": "Force Touch trackpad",
+        "speakers": "Four-speaker sound system with Spatial Audio"
+      }
+    },
+    {
+      "id": "macbook-air-13-m3",
+      "category": "macbooks",
+      "name": "MacBook Air 13\" M3",
+      "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/mba_13_m3_2024_hero.png",
+      "taglineKey": "products.mba_13_m3.tagline",
+      "descriptionKey": "products.mba_13_m3.description",
+      "price": 1099,
+      "badge": "Popular",
+      "featured": true,
+      "gradient": "linear-gradient(135deg, #c8c8cc 0%, #dcdce0 50%, #f0f0f4 100%)",
+      "colors": [
+        {
+          "name": "Midnight",
+          "hex": "#2e3138"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f5f0e8"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "#7d7e80"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "13.6\"",
+          "type": "Liquid Retina",
+          "resolution": "2560 x 1664",
+          "ppi": 224,
+          "brightness": "500 nits",
+          "refreshRate": "60Hz",
+          "features": ["P3 Wide Color", "True Tone"]
+        },
+        "chip": "Apple M3",
+        "cpu": "8-core CPU (4 performance + 4 efficiency)",
+        "gpu": "10-core GPU",
+        "neuralEngine": "16-core Neural Engine",
+        "camera": {
+          "front": "1080p FaceTime HD camera"
+        },
+        "storageOptions": [
+          {
+            "size": "256GB SSD",
+            "priceAdd": 0
+          },
+          {
+            "size": "512GB SSD",
+            "priceAdd": 200
+          },
+          {
+            "size": "1TB SSD",
+            "priceAdd": 400
+          },
+          {
+            "size": "2TB SSD",
+            "priceAdd": 600
+          }
+        ],
+        "ram": "8 GB Unified Memory",
+        "ramOptions": ["8 GB", "16 GB (+$200)", "24 GB (+$400)"],
+        "battery": "Up to 18 hours",
+        "os": "macOS Sonoma",
+        "weight": "1.24 kg",
+        "dimensions": "30.41 x 21.50 x 1.13 cm",
+        "connectivity": [
+          "Wi-Fi 6E",
+          "Bluetooth 5.3",
+          "MagSafe 3",
+          "2x Thunderbolt / USB 4",
+          "3.5mm headphone jack"
+        ],
+        "keyboard": "Backlit Magic Keyboard with Touch ID",
+        "trackpad": "Force Touch trackpad",
+        "speakers": "Four-speaker sound system with Spatial Audio"
+      }
+    },
+    {
+      "id": "airpods-pro-2",
+      "category": "accessories",
+      "name": "AirPods Pro 2",
+      "image": "https://econtent.o2.co.uk/o/econtent/media/get/7efc3e5e-4b8e-4b97-bea3-ff5c1d141f33",
+      "taglineKey": "products.airpods_pro_2.tagline",
+      "descriptionKey": "products.airpods_pro_2.description",
+      "price": 249,
+      "badge": "Popular",
+      "featured": true,
+      "gradient": "linear-gradient(135deg, #f5f5f7 0%, #e8e8ec 50%, #d4d4d8 100%)",
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#f5f5f7"
+        }
+      ],
+      "specs": {
+        "chip": "Apple H2",
+        "activeNoiseCancellation": true,
+        "transparency": "Adaptive Transparency",
+        "spatialAudio": "Personalized Spatial Audio with dynamic head tracking",
+        "batteryLife": {
+          "earbuds": "Up to 6 hours (ANC on)",
+          "case": "Up to 30 hours total",
+          "charging": "MagSafe, Qi, USB-C, Apple Watch charger"
+        },
+        "driver": "Custom Apple driver + custom amplifier",
+        "connectivity": ["Bluetooth 5.3"],
+        "waterResistance": "IP54 (earbuds and case)",
+        "features": [
+          "Conversation Awareness",
+          "Adaptive Audio",
+          "Touch control",
+          "Personalized Volume"
+        ],
+        "weight": "5.3 g (each earbud), 50.8 g (case)",
+        "compatibility": "iPhone, iPad, Mac, Apple Watch, Apple TV"
+      }
+    },
+    {
+      "id": "airpods-max",
+      "category": "accessories",
+      "name": "AirPods Max",
+      "image": "https://help.apple.com/assets/68F6C0C996FCF240DC07C393/68F6C0CE96FCF240DC07C399/en_US/be407fad48c9ccafcd87007eb6645d61.png",
+      "taglineKey": "products.airpods_max.tagline",
+      "descriptionKey": "products.airpods_max.description",
+      "price": 549,
+      "badge": "",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #7eb8d8 0%, #a0c8e0 50%, #c8dce8 100%)",
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "#7d7e80"
+        },
+        {
+          "name": "Sky Blue",
+          "hex": "#7eb8d8"
+        },
+        {
+          "name": "Pink",
+          "hex": "#f0b8c8"
+        },
+        {
+          "name": "Green",
+          "hex": "#b8d8c0"
+        }
+      ],
+      "specs": {
+        "chip": "Apple H1 (each ear cup)",
+        "activeNoiseCancellation": true,
+        "transparency": "Transparency mode",
+        "spatialAudio": "Spatial Audio with dynamic head tracking",
+        "batteryLife": {
+          "listening": "Up to 20 hours (ANC on)",
+          "charging": "Lightning"
+        },
+        "driver": "40mm Apple-designed dynamic driver",
+        "connectivity": ["Bluetooth 5.0"],
+        "features": ["Digital Crown", "Computational audio", "Adaptive EQ"],
+        "weight": "384.8 g",
+        "material": "Stainless steel, aluminum, knit-mesh canopy",
+        "compatibility": "iPhone, iPad, Mac, Apple Watch, Apple TV"
+      }
+    },
+    {
+      "id": "apple-watch-ultra-2",
+      "category": "accessories",
+      "name": "Apple Watch Ultra 2",
+      "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/111832-watch-ultra-2.png",
+      "taglineKey": "products.watch_ultra_2.tagline",
+      "descriptionKey": "products.watch_ultra_2.description",
+      "price": 799,
+      "badge": "Adventure",
+      "featured": true,
+      "gradient": "linear-gradient(135deg, #d4a060 0%, #e8c088 50%, #c08840 100%)",
+      "colors": [
+        {
+          "name": "Natural Titanium",
+          "hex": "#d4a060"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "49mm",
+          "type": "Always-On Retina LTPO2 OLED",
+          "brightness": "3000 nits (peak)",
+          "features": ["Flat sapphire front crystal"]
+        },
+        "chip": "Apple S9 SIP with 64-bit dual-core processor",
+        "storage": "64GB",
+        "battery": "Up to 36 hours (72 hours low power mode)",
+        "os": "watchOS 10",
+        "weight": "61.4 g (titanium case)",
+        "dimensions": "49 x 44 x 14.4 mm",
+        "connectivity": [
+          "LTE",
+          "UMTS",
+          "Wi-Fi",
+          "Bluetooth 5.3",
+          "L1/L5 GPS",
+          "Ultra Wideband 2"
+        ],
+        "waterResistance": "WR100, EN13319 (dive to 40m)",
+        "sensors": [
+          "Heart rate",
+          "Blood oxygen",
+          "ECG",
+          "Temperature",
+          "Depth gauge",
+          "Compass",
+          "Accelerometer",
+          "Gyroscope"
+        ],
+        "material": "Titanium case, sapphire crystal",
+        "features": [
+          "Action Button",
+          "Siren",
+          "Precision dual-frequency GPS",
+          "Double Tap gesture"
+        ]
+      }
+    },
+    {
+      "id": "apple-watch-series-9",
+      "category": "accessories",
+      "name": "Apple Watch Series 9",
+      "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/apple-watch-series-9.png",
+      "taglineKey": "products.watch_series_9.tagline",
+      "descriptionKey": "products.watch_series_9.description",
+      "price": 399,
+      "badge": "",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #f0c4c4 0%, #f0d0b0 50%, #e8b8a0 100%)",
+      "colors": [
+        {
+          "name": "Midnight",
+          "hex": "#2e3138"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f5f0e8"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        },
+        {
+          "name": "Pink",
+          "hex": "#f0c4c4"
+        },
+        {
+          "name": "Product Red",
+          "hex": "#d82832"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "41mm / 45mm",
+          "type": "Always-On Retina LTPO2 OLED",
+          "brightness": "2000 nits (peak)",
+          "features": ["Ion-X front crystal / Sapphire front crystal"]
+        },
+        "chip": "Apple S9 SIP with 64-bit dual-core processor",
+        "storage": "64GB",
+        "battery": "Up to 18 hours (36 hours low power mode)",
+        "os": "watchOS 10",
+        "weight": "38.7 g (41mm aluminum)",
+        "connectivity": [
+          "LTE (GPS + Cellular)",
+          "Wi-Fi",
+          "Bluetooth 5.3",
+          "L1 GPS",
+          "Ultra Wideband 2"
+        ],
+        "waterResistance": "WR50 (swim proof)",
+        "sensors": [
+          "Heart rate",
+          "Blood oxygen",
+          "ECG",
+          "Temperature",
+          "Compass",
+          "Accelerometer",
+          "Gyroscope"
+        ],
+        "material": "Aluminum or Stainless Steel case",
+        "features": ["Double Tap gesture", "Crash Detection", "Fall Detection"]
+      }
+    },
+    {
+      "id": "magsafe-charger",
+      "category": "accessories",
+      "name": "MagSafe Charger",
+      "image": "https://expercom.com/cdn/shop/files/f95ce0ca38ac8a25796e28183429a8dcLarge.png?v=1725981557&width=1946",
+      "taglineKey": "products.magsafe_charger.tagline",
+      "descriptionKey": "products.magsafe_charger.description",
+      "price": 39,
+      "badge": "",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #f0f0f4 0%, #e0e0e4 50%, #d0d0d4 100%)",
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#f5f5f7"
+        }
+      ],
+      "specs": {
+        "chargingSpeed": "Up to 15W wireless charging",
+        "compatibility": "iPhone 12 and later, AirPods with MagSafe",
+        "connector": "USB-C",
+        "cableLength": "1 meter",
+        "alignment": "Perfectly aligned magnets",
+        "features": ["Qi compatible", "MagSafe alignment magnets"],
+        "weight": "30 g"
+      }
+    },
+    {
+      "id": "magic-keyboard",
+      "category": "accessories",
+      "name": "Magic Keyboard with Touch ID",
+      "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/magic-keyboard-with-touch-id.png",
+      "taglineKey": "products.magic_keyboard.tagline",
+      "descriptionKey": "products.magic_keyboard.description",
+      "price": 199,
+      "badge": "",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #e8e8ec 0%, #f0f0f4 50%, #f8f8fc 100%)",
+      "colors": [
+        {
+          "name": "White / Silver",
+          "hex": "#e3e4e5"
+        },
+        {
+          "name": "Black / Space Gray",
+          "hex": "#3c3c3e"
+        }
+      ],
+      "specs": {
+        "connectivity": "Bluetooth, USB-C (for charging and pairing)",
+        "battery": "Rechargeable lithium-ion, up to 1 month",
+        "features": [
+          "Touch ID sensor",
+          "Ambient light sensor",
+          "Full-size layout with numeric keypad"
+        ],
+        "compatibility": "Mac with Apple silicon",
+        "weight": "390 g",
+        "dimensions": "41.87 x 11.49 x 1.09 cm"
+      }
+    },
+    {
+      "id": "iphone-14-plus",
+      "category": "iphones",
+      "name": "iPhone 14 Plus",
+      "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-14-plus-blue.png?v=64518e0b",
+      "taglineKey": "products.iphone_14_plus.tagline",
+      "descriptionKey": "products.iphone_14_plus.description",
+      "price": 799,
+      "badge": "",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #8f90c4 0%, #b3b4d8 50%, #d2d3ea 100%)",
+      "colors": [
+        {
+          "name": "Midnight",
+          "hex": "#2e3138"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f5f0e8"
+        },
+        {
+          "name": "Blue",
+          "hex": "#a0b4d0"
+        },
+        {
+          "name": "Purple",
+          "hex": "#e5ddea"
+        },
+        {
+          "name": "Product Red",
+          "hex": "#d82832"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "6.7\"",
+          "type": "Super Retina XDR OLED",
+          "resolution": "2778 x 1284",
+          "ppi": 458,
+          "brightness": "1200 nits (peak HDR)",
+          "refreshRate": "60Hz",
+          "features": ["HDR", "True Tone", "Haptic Touch"]
+        },
+        "chip": "A15 Bionic",
+        "cpu": "6-core CPU (2 performance + 4 efficiency)",
+        "gpu": "5-core GPU",
+        "camera": {
+          "main": "12 MP Main ƒ/1.5",
+          "ultrawide": "12 MP Ultra Wide ƒ/2.4",
+          "front": "12 MP TrueDepth ƒ/1.9",
+          "video": "4K Cinematic mode, Action mode"
+        },
+        "storageOptions": [
+          {
+            "size": "128GB",
+            "priceAdd": 0
+          },
+          {
+            "size": "256GB",
+            "priceAdd": 100
+          },
+          {
+            "size": "512GB",
+            "priceAdd": 300
+          }
+        ],
+        "ram": "6 GB",
+        "battery": "Up to 26 hours video playback",
+        "os": "iOS 17",
+        "weight": "203 g",
+        "dimensions": "160.8 x 78.1 x 7.80 mm",
+        "connectivity": ["5G", "Wi-Fi 6", "Bluetooth 5.3", "Lightning", "NFC"],
+        "waterResistance": "IP68 (6 meters, 30 minutes)",
+        "security": "Face ID",
+        "material": "Aluminum frame, Ceramic Shield front"
+      }
+    },
+    {
+      "id": "macbook-air-13-m2",
+      "category": "macbooks",
+      "name": "MacBook Air 13\" M2",
+      "image": "https://sixcolors.com/wp-content/uploads/2022/06/m2air-hero-6c.png",
+      "taglineKey": "products.mba_13_m2.tagline",
+      "descriptionKey": "products.mba_13_m2.description",
+      "price": 999,
+      "badge": "",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #bcc0c9 0%, #d8dce3 50%, #eef1f6 100%)",
+      "colors": [
+        {
+          "name": "Midnight",
+          "hex": "#2e3138"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f5f0e8"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "#7d7e80"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e3e4e5"
+        }
+      ],
+      "specs": {
+        "display": {
+          "size": "13.6\"",
+          "type": "Liquid Retina",
+          "resolution": "2560 x 1664",
+          "ppi": 224,
+          "brightness": "500 nits",
+          "refreshRate": "60Hz",
+          "features": ["P3 Wide Color", "True Tone"]
+        },
+        "chip": "Apple M2",
+        "cpu": "8-core CPU (4 performance + 4 efficiency)",
+        "gpu": "10-core GPU",
+        "neuralEngine": "16-core Neural Engine",
+        "camera": {
+          "front": "1080p FaceTime HD camera"
+        },
+        "storageOptions": [
+          {
+            "size": "256GB SSD",
+            "priceAdd": 0
+          },
+          {
+            "size": "512GB SSD",
+            "priceAdd": 200
+          },
+          {
+            "size": "1TB SSD",
+            "priceAdd": 400
+          },
+          {
+            "size": "2TB SSD",
+            "priceAdd": 600
+          }
+        ],
+        "ram": "8 GB Unified Memory",
+        "ramOptions": ["8 GB", "16 GB (+$200)", "24 GB (+$400)"],
+        "battery": "Up to 18 hours",
+        "os": "macOS Sonoma",
+        "weight": "1.24 kg",
+        "dimensions": "30.41 x 21.50 x 1.13 cm",
+        "connectivity": [
+          "Wi-Fi 6",
+          "Bluetooth 5.3",
+          "MagSafe 3",
+          "2x Thunderbolt / USB 4",
+          "3.5mm headphone jack"
+        ],
+        "keyboard": "Backlit Magic Keyboard with Touch ID",
+        "trackpad": "Force Touch trackpad",
+        "speakers": "Four-speaker sound system with Spatial Audio"
+      }
+    },
+    {
+      "id": "airtag-4-pack",
+      "category": "accessories",
+      "name": "AirTag 4 Pack",
+      "image": "https://action-jo-v2.action.jo/cdn-cgi/image/w=2000,h=2000,f=webp,q=100,fit=contain/https://action-v2-backend.b-cdn.net/38450/g0nuur7IsV4dC0AyoL6uoxy54Y2G7B3Mvgd8aF7O.png",
+      "taglineKey": "products.airtag_4_pack.tagline",
+      "descriptionKey": "products.airtag_4_pack.description",
+      "price": 99,
+      "badge": "",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #ececf1 0%, #e2e2e8 50%, #d8d8df 100%)",
+      "colors": [
+        {
+          "name": "White / Silver",
+          "hex": "#ececf1"
+        }
+      ],
+      "specs": {
+        "chip": "Apple U1 chip",
+        "battery": "User-replaceable CR2032 battery (about 1 year)",
+        "connectivity": ["Bluetooth LE", "NFC", "Ultra Wideband"],
+        "waterResistance": "IP67",
+        "weight": "11 g (per AirTag)",
+        "dimensions": "31.9 x 31.9 x 8.0 mm",
+        "material": "Polished stainless steel, white polymer",
+        "compatibility": "iPhone and iPad with Find My",
+        "features": ["Precision Finding", "Lost Mode", "Built-in speaker"]
+      }
+    }
+  ]
+}

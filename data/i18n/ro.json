@@ -1,0 +1,293 @@
+{
+  "site": {
+    "title": "AppleVault - Experienta Apple Premium",
+    "name": "AppleVault",
+    "tagline": "Experienta Apple Premium"
+  },
+  "nav": {
+    "home": "Acasa",
+    "catalog": "Catalog",
+    "iphones": "iPhone",
+    "macbooks": "Mac",
+    "accessories": "Accesorii",
+    "cart": "Cos",
+    "login": "Autentificare",
+    "register": "Inregistrare",
+    "logout": "Deconectare",
+    "language": "Limba",
+    "account": "Cont",
+    "search": "Cauta produse..."
+  },
+  "home": {
+    "hero": {
+      "title": "iPhone 15 Pro",
+      "subtitle": "Titaniu. Atat de rezistent. Atat de usor. Atat de Pro.",
+      "cta": "Cumpara acum",
+      "secondary_cta": "Afla mai multe"
+    },
+    "categories": {
+      "title": "Exploreaza gama",
+      "subtitle": "Gaseste dispozitivul Apple perfect pentru tine"
+    },
+    "featured": {
+      "title": "Produse recomandate",
+      "subtitle": "Selectate de echipa noastra"
+    },
+    "banner": {
+      "title": "Trade In si economisesti",
+      "subtitle": "Primeste credit pentru urmatorul dispozitiv Apple cand predai un dispozitiv eligibil.",
+      "cta": "Vezi cat valoreaza dispozitivul tau"
+    },
+    "why": {
+      "title": "De ce AppleVault?",
+      "reason1_title": "Livrare gratuita",
+      "reason1_desc": "Livrare gratuita la toate comenzile, direct la usa ta.",
+      "reason2_title": "Consultanta experta",
+      "reason2_desc": "Specialistii nostri te ajuta sa alegi produsul potrivit.",
+      "reason3_title": "Retur usor",
+      "reason3_desc": "Nu esti multumit? Il poti returna in 14 zile.",
+      "reason4_title": "Plata securizata",
+      "reason4_desc": "Datele tale sunt protejate cu criptare la nivel de industrie."
+    }
+  },
+  "categories": {
+    "iphones": "iPhone",
+    "iphones_desc": "Experienta smartphone suprema",
+    "macbooks": "Mac",
+    "macbooks_desc": "Putere pentru a schimba totul",
+    "accessories": "Accesorii",
+    "accessories_desc": "Completeaza-ti setup-ul"
+  },
+  "catalog": {
+    "title": "Cumpara produse",
+    "subtitle": "Rasfoieste colectia noastra completa de dispozitive Apple",
+    "all": "Toate produsele",
+    "filter": "Filtru",
+    "sort": "Sorteaza dupa",
+    "sort_featured": "Recomandate",
+    "sort_price_asc": "Pret: crescator",
+    "sort_price_desc": "Pret: descrescator",
+    "sort_name": "Nume: A-Z",
+    "no_results": "Nu s-au gasit produse pentru criteriile tale.",
+    "loading": "Se incarca produsele...",
+    "items_found": "produse gasite",
+    "price_range": "Interval de pret",
+    "clear_filters": "Reseteaza filtrele",
+    "quick_add": "Adaugare rapida",
+    "view_details": "Vezi detalii",
+    "add_to_cart": "Adauga in cos"
+  },
+  "product": {
+    "from": "De la",
+    "add_to_cart": "Adauga in cos",
+    "added_to_cart": "Adaugat in cos!",
+    "select_color": "Culoare",
+    "select_storage": "Stocare",
+    "specifications": "Specificatii",
+    "display": "Ecran",
+    "chip": "Chip",
+    "cpu": "CPU",
+    "gpu": "GPU",
+    "camera": "Camera",
+    "camera_main": "Principala",
+    "camera_ultrawide": "Ultra-wide",
+    "camera_telephoto": "Telefoto",
+    "camera_front": "Frontala",
+    "camera_video": "Video",
+    "ram": "Memorie",
+    "storage": "Stocare",
+    "battery": "Baterie",
+    "os": "Sistem de operare",
+    "weight": "Greutate",
+    "dimensions": "Dimensiuni",
+    "connectivity": "Conectivitate",
+    "water_resistance": "Rezistenta la apa",
+    "security": "Securitate",
+    "material": "Material",
+    "related": "S-ar putea sa iti placa",
+    "back_to_catalog": "Inapoi la catalog",
+    "in_the_box": "Ce este in cutie",
+    "overview": "Prezentare generala",
+    "tech_specs": "Specificatii tehnice",
+    "battery_earbuds": "Casti",
+    "battery_case": "Carcasa",
+    "battery_charging": "Incarcare",
+    "battery_listening": "Ascultare",
+    "spec_up_to": "Pana la",
+    "spec_hours": "ore",
+    "spec_hours_video_playback": "ore redare video",
+    "spec_low_power_mode": "mod consum redus",
+    "spec_peak_outdoor": "varf in exterior",
+    "spec_peak_hdr": "varf HDR",
+    "spec_peak_xdr": "varf XDR"
+  },
+  "cart": {
+    "title": "Cosul tau",
+    "empty": "Cosul tau este gol",
+    "empty_desc": "Se pare ca nu ai adaugat nimic inca.",
+    "continue_shopping": "Continua cumparaturile",
+    "remove": "Elimina",
+    "quantity": "Cant.",
+    "subtotal": "Subtotal",
+    "shipping": "Livrare",
+    "shipping_free": "GRATUIT",
+    "tax": "Taxe estimate",
+    "total": "Total",
+    "checkout": "Finalizeaza comanda",
+    "item": "produs",
+    "items": "produse",
+    "clear_cart": "Goleste cosul",
+    "order_summary": "Sumar comanda"
+  },
+  "auth": {
+    "login_title": "Autentificare",
+    "login_subtitle": "Autentifica-te in contul AppleVault",
+    "register_title": "Creeaza cont",
+    "register_subtitle": "Alatura-te AppleVault pentru cea mai buna experienta",
+    "email": "Adresa de email",
+    "password": "Parola",
+    "confirm_password": "Confirma parola",
+    "first_name": "Prenume",
+    "last_name": "Nume",
+    "remember_me": "Tine-ma minte",
+    "forgot_password": "Ai uitat parola?",
+    "login_btn": "Autentificare",
+    "register_btn": "Creeaza cont",
+    "no_account": "Nu ai cont?",
+    "has_account": "Ai deja cont?",
+    "create_one": "Creeaza unul",
+    "sign_in": "Autentifica-te",
+    "login_success": "Autentificare reusita!",
+    "register_success": "Cont creat cu succes!",
+    "login_error": "Email sau parola invalida.",
+    "register_error": "Inregistrarea a esuat. Incearca din nou.",
+    "passwords_mismatch": "Parolele nu se potrivesc.",
+    "forgot_password_email_required": "Introdu mai intai emailul, apoi apasa pe Ai uitat parola?.",
+    "forgot_password_sent": "Emailul de resetare a parolei a fost trimis. Verifica inbox-ul."
+  },
+  "checkout": {
+    "title": "Finalizare comanda",
+    "subtitle": "Revizuieste comanda si completeaza datele de livrare.",
+    "empty_title": "Cosul tau este gol",
+    "empty_desc": "Adauga produse in cos inainte de finalizare.",
+    "shipping_title": "Informatii de livrare",
+    "full_name": "Nume complet",
+    "phone": "Telefon",
+    "address1": "Adresa (linia 1)",
+    "address2": "Adresa (linia 2, optional)",
+    "city": "Oras",
+    "country": "Tara",
+    "zip": "Cod postal",
+    "payment_title": "Metoda de plata",
+    "payment_cash": "Plata la livrare",
+    "payment_card": "Card",
+    "cardholder": "Nume titular card",
+    "card_number": "Numar card",
+    "card_expiry": "Expirare",
+    "card_cvc": "CVC",
+    "place_order": "Plaseaza comanda",
+    "processing": "Se proceseaza...",
+    "required_error": "Completeaza toate campurile obligatorii.",
+    "card_required_error": "Completeaza toate campurile cardului.",
+    "success": "Comanda a fost plasata cu succes"
+  },
+  "account": {
+    "title": "Contul meu",
+    "order": "Comanda",
+    "no_orders_title": "Nu ai comenzi inca",
+    "no_orders_desc": "Dupa ce plasezi o comanda, ea va aparea aici."
+  },
+  "footer": {
+    "shop": "Cumpara si invata",
+    "about": "Despre AppleVault",
+    "support": "Suport",
+    "contact": "Contacteaza-ne",
+    "privacy": "Politica de confidentialitate",
+    "terms": "Termeni de utilizare",
+    "copyright": "© 2025 AppleVault. Toate drepturile rezervate.",
+    "disclaimer": "Apple, iPhone, Mac, AirPods si Apple Watch sunt marci comerciale ale Apple Inc."
+  },
+  "common": {
+    "loading": "Se incarca...",
+    "error": "Ceva nu a mers bine",
+    "retry": "Incearca din nou",
+    "close": "Inchide",
+    "back": "Inapoi",
+    "next": "Urmatorul",
+    "previous": "Anterior"
+  },
+  "products": {
+    "iphone_15_pro_max": {
+      "tagline": "Titaniu. Atat de rezistent. Atat de usor. Atat de Pro.",
+      "description": "iPhone 15 Pro Max are un design din titan rezistent si usor, chip A17 Pro, buton Action personalizabil si cel mai puternic sistem de camere iPhone de pana acum."
+    },
+    "iphone_15_pro": {
+      "tagline": "Titaniu. Atat de rezistent. Atat de usor. Atat de Pro.",
+      "description": "iPhone 15 Pro ofera design din titan, chip A17 Pro, buton Action personalizabil si un sistem de camere pro puternic intr-un format mai compact."
+    },
+    "iphone_15": {
+      "tagline": "Camera noua. Design nou. Newphoria.",
+      "description": "iPhone 15 aduce Dynamic Island, camera de 48 MP si conectivitate USB-C in gama iPhone standard, cu un design superb din sticla colorata."
+    },
+    "iphone_15_plus": {
+      "tagline": "Camera noua. Design nou. Newphoria.",
+      "description": "iPhone 15 Plus ofera tot ce are iPhone 15, dar cu ecran mai mare de 6,7 inch si cea mai buna autonomie de pana acum pe iPhone."
+    },
+    "iphone_14": {
+      "tagline": "O adevarata forta.",
+      "description": "iPhone 14 are ecran de 6,1 inch, chip A15 Bionic, sistem avansat cu doua camere, Crash Detection si Emergency SOS prin satelit."
+    },
+    "iphone_14_plus": {
+      "tagline": "Mare si mai mare.",
+      "description": "iPhone 14 Plus iti ofera ecran mai mare de 6,7 inch, autonomie pentru intreaga zi si camere duale avansate cu chip A15 Bionic."
+    },
+    "mbp_16_m3_max": {
+      "tagline": "Uimitor. De neuitat.",
+      "description": "MacBook Pro de 16 inch cu chip M3 Max ofera performanta extraordinara pentru cele mai solicitante fluxuri profesionale, cu pana la 128 GB memorie unificata."
+    },
+    "mbp_14_m3_pro": {
+      "tagline": "Mai pro ca niciodata.",
+      "description": "MacBook Pro de 14 inch cu chip M3 Pro livreaza performanta excelenta si autonomie ridicata intr-un laptop pro portabil."
+    },
+    "mba_15_m3": {
+      "tagline": "Impresionant de mare. Imposibil de subtire.",
+      "description": "MacBook Air 15 inch cu M3 ofera performanta incredibila intr-un design foarte subtire, cu ecran Liquid Retina generos."
+    },
+    "mba_13_m3": {
+      "tagline": "Subtire. Puternic. M3.",
+      "description": "MacBook Air 13 inch cu M3 este un laptop excelent pentru uz zilnic, cu performanta superioara intr-un design extrem de subtire."
+    },
+    "mba_13_m2": {
+      "tagline": "Accelerat de M2.",
+      "description": "MacBook Air 13 inch cu M2 combina performanta solida de zi cu zi, design silentios fara ventilator si autonomie mare intr-o carcasa subtire din aluminiu."
+    },
+    "airpods_pro_2": {
+      "tagline": "Adaptive Audio. Acum in redare.",
+      "description": "AirPods Pro 2 includ chipul H2, Adaptive Audio, Personalized Spatial Audio si anulare activa a zgomotului semnificativ imbunatatita fata de generatia anterioara."
+    },
+    "airpods_max": {
+      "tagline": "Echilibru perfect al sunetului de inalta fidelitate.",
+      "description": "AirPods Max combina un design acustic personalizat cu chipul Apple H1 pentru o experienta audio avansata cu Active Noise Cancellation si Spatial Audio."
+    },
+    "watch_ultra_2": {
+      "tagline": "Aventura la alt nivel.",
+      "description": "Apple Watch Ultra 2 este cel mai capabil Apple Watch de pana acum, construit pentru rezistenta, explorare si aventura, cu cel mai luminos ecran Apple."
+    },
+    "watch_series_9": {
+      "tagline": "Mai inteligent. Mai luminos. Mai puternic.",
+      "description": "Apple Watch Series 9 include chipul S9, ecran mai luminos si noul gest Double Tap, fiind cel mai puternic Apple Watch de pana acum."
+    },
+    "magsafe_charger": {
+      "tagline": "Atasezi si incarci fara efort.",
+      "description": "Incarcatorul MagSafe ofera incarcare wireless eficienta, cu magneti aliniati perfect care se fixeaza pe iPhone."
+    },
+    "magic_keyboard": {
+      "tagline": "O tastatura care face mai mult.",
+      "description": "Magic Keyboard cu Touch ID ofera o experienta de tastare confortabila si senzor de amprenta integrat pentru autentificare sigura."
+    },
+    "airtag_4_pack": {
+      "tagline": "Urmareste unul. Urmareste-le pe toate.",
+      "description": "Pachetul AirTag 4 te ajuta sa urmaresti chei, genti si altele, cu Precision Finding, Lost Mode si integrare perfecta in Find My."
+    }
+  }
+}

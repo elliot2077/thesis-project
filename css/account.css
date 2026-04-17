@@ -1,0 +1,112 @@
+.account-page {
+  padding: var(--space-3xl) 0 var(--space-4xl);
+}
+
+.account-header {
+  text-align: center;
+  margin-bottom: var(--space-xl);
+}
+
+.account-header h1 {
+  font-size: var(--font-size-3xl);
+  margin-bottom: var(--space-xs);
+}
+
+.account-header p {
+  color: var(--color-text-secondary);
+}
+
+.account-empty {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: center;
+  padding: var(--space-2xl);
+}
+
+.account-empty h2 {
+  margin-bottom: var(--space-sm);
+}
+
+.account-empty p {
+  margin-bottom: var(--space-lg);
+  color: var(--color-text-secondary);
+}
+
+.orders-list {
+  max-width: 920px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+}
+
+.order-card {
+  background: var(--color-surface);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-sm);
+  padding: var(--space-xl);
+}
+
+.order-card__header,
+.order-card__footer,
+.order-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-md);
+}
+
+.order-card__label {
+  font-size: var(--font-size-xs);
+  text-transform: uppercase;
+  color: var(--color-text-tertiary);
+  letter-spacing: 0.07em;
+}
+
+.order-card__header h2 {
+  margin-top: var(--space-xs);
+  font-size: var(--font-size-lg);
+}
+
+.order-card__meta {
+  text-align: right;
+}
+
+.order-card__meta span {
+  display: block;
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+  margin-bottom: 2px;
+}
+
+.order-card__items {
+  margin: var(--space-lg) 0;
+  padding: var(--space-md) 0;
+  border-top: 1px solid var(--color-border-light);
+  border-bottom: 1px solid var(--color-border-light);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.order-item {
+  font-size: var(--font-size-sm);
+}
+
+.order-card__footer {
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+}
+
+@media (max-width: 700px) {
+  .order-card__header,
+  .order-card__footer,
+  .order-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .order-card__meta {
+    text-align: left;
+  }
+}

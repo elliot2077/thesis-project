@@ -1,0 +1,295 @@
+{
+  "site": {
+    "title": "Apple Store",
+    "name": "AppleVault",
+    "tagline": "Premium Apple Experience"
+  },
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "iphones": "iPhone",
+    "macbooks": "Mac",
+    "accessories": "Accessories",
+    "cart": "Cart",
+    "login": "Sign In",
+    "register": "Sign Up",
+    "logout": "Sign Out",
+    "language": "Language",
+    "account": "Account",
+    "search": "Search products..."
+  },
+  "home": {
+    "hero": {
+      "title": "iPhone 15 Pro",
+      "subtitle": "Titanium. So strong. So light. So Pro.",
+      "cta": "Shop Now",
+      "secondary_cta": "Learn More"
+    },
+    "categories": {
+      "title": "Explore the Lineup",
+      "subtitle": "Find the perfect Apple device for you"
+    },
+    "featured": {
+      "title": "Featured Products",
+      "subtitle": "Handpicked by our team"
+    },
+    "banner": {
+      "title": "Trade In & Save",
+      "subtitle": "Get credit toward your next Apple device when you trade in an eligible device.",
+      "cta": "See what your device is worth"
+    },
+    "why": {
+      "title": "Why AppleVault?",
+      "reason1_title": "Free Delivery",
+      "reason1_desc": "Free shipping on all orders, right to your door.",
+      "reason2_title": "Expert Advice",
+      "reason2_desc": "Our specialists can help you choose the right product.",
+      "reason3_title": "Easy Returns",
+      "reason3_desc": "Not satisfied? Return it within 14 days.",
+      "reason4_title": "Secure Payment",
+      "reason4_desc": "Your data is protected with industry-grade encryption."
+    }
+  },
+  "categories": {
+    "iphones": "iPhone",
+    "iphones_desc": "The ultimate smartphone experience",
+    "macbooks": "Mac",
+    "macbooks_desc": "Power to change everything",
+    "accessories": "Accessories",
+    "accessories_desc": "Complete your setup"
+  },
+  "catalog": {
+    "title": "Shop Products",
+    "subtitle": "Browse our complete collection of Apple devices",
+    "all": "All Products",
+    "filter": "Filter",
+    "sort": "Sort by",
+    "sort_featured": "Featured",
+    "sort_price_asc": "Price: Low to High",
+    "sort_price_desc": "Price: High to Low",
+    "sort_name": "Name: A to Z",
+    "no_results": "No products found matching your criteria.",
+    "loading": "Loading products...",
+    "items_found": "products found",
+    "price_range": "Price Range",
+    "clear_filters": "Clear Filters",
+    "quick_add": "Quick Add",
+    "view_details": "View Details",
+    "add_to_cart": "Add to Cart"
+  },
+  "product": {
+    "from": "From",
+    "add_to_cart": "Add to Cart",
+    "added_to_cart": "Added to Cart!",
+    "select_color": "Color",
+    "select_storage": "Storage",
+    "specifications": "Specifications",
+    "display": "Display",
+    "chip": "Chip",
+    "cpu": "CPU",
+    "gpu": "GPU",
+    "camera": "Camera",
+    "camera_main": "Main",
+    "camera_ultrawide": "Ultra Wide",
+    "camera_telephoto": "Telephoto",
+    "camera_front": "Front",
+    "camera_video": "Video",
+    "ram": "Memory",
+    "storage": "Storage",
+    "battery": "Battery",
+    "os": "Operating System",
+    "weight": "Weight",
+    "dimensions": "Dimensions",
+    "connectivity": "Connectivity",
+    "water_resistance": "Water Resistance",
+    "security": "Security",
+    "material": "Material",
+    "related": "You may also like",
+    "back_to_catalog": "Back to Catalog",
+    "in_the_box": "What's in the Box",
+    "overview": "Overview",
+    "tech_specs": "Tech Specs",
+    "battery_earbuds": "Earbuds",
+    "battery_case": "Case",
+    "battery_charging": "Charging",
+    "battery_listening": "Listening",
+    "spec_up_to": "Up to",
+    "spec_hours": "hours",
+    "spec_hours_video_playback": "hours video playback",
+    "spec_low_power_mode": "low power mode",
+    "spec_peak_outdoor": "peak outdoor",
+    "spec_peak_hdr": "peak HDR",
+    "spec_peak_xdr": "peak XDR"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "empty_desc": "Looks like you haven't added anything yet.",
+    "continue_shopping": "Continue Shopping",
+    "remove": "Remove",
+    "quantity": "Qty",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shipping_free": "FREE",
+    "tax": "Estimated Tax",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "item": "item",
+    "items": "items",
+    "clear_cart": "Clear Cart",
+    "order_summary": "Order Summary"
+  },
+  "auth": {
+    "login_title": "Sign In",
+    "login_subtitle": "Sign in to your AppleVault account",
+    "register_title": "Create Account",
+    "register_subtitle": "Join AppleVault for the best experience",
+    "email": "Email Address",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "remember_me": "Remember me",
+    "forgot_password": "Forgot password?",
+    "login_btn": "Sign In",
+    "register_btn": "Create Account",
+    "no_account": "Don't have an account?",
+    "has_account": "Already have an account?",
+    "create_one": "Create one",
+    "sign_in": "Sign in",
+    "or_continue": "or continue with",
+    "login_success": "Successfully signed in!",
+    "register_success": "Account created successfully!",
+    "login_error": "Invalid email or password.",
+    "register_error": "Registration failed. Please try again.",
+    "passwords_mismatch": "Passwords do not match.",
+    "forgot_password_email_required": "Enter your email first, then click Forgot password.",
+    "forgot_password_sent": "Password reset email sent. Check your inbox.",
+    "demo_note": "Demo: Use eve.holt@reqres.in with any password"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "subtitle": "Review your order and enter shipping details.",
+    "empty_title": "Your cart is empty",
+    "empty_desc": "Add products to your cart before checking out.",
+    "shipping_title": "Shipping information",
+    "full_name": "Full name",
+    "phone": "Phone",
+    "address1": "Address line 1",
+    "address2": "Address line 2 (optional)",
+    "city": "City",
+    "country": "Country",
+    "zip": "ZIP",
+    "payment_title": "Payment method",
+    "payment_cash": "Cash on delivery",
+    "payment_card": "Card",
+    "cardholder": "Cardholder name",
+    "card_number": "Card number",
+    "card_expiry": "Expiry",
+    "card_cvc": "CVC",
+    "place_order": "Place Order",
+    "processing": "Processing...",
+    "required_error": "Please complete all required fields.",
+    "card_required_error": "Please fill in all card fields.",
+    "success": "Order placed successfully"
+  },
+  "account": {
+    "title": "My Account",
+    "order": "Order",
+    "no_orders_title": "No orders yet",
+    "no_orders_desc": "Once you place an order, it will appear here."
+  },
+  "footer": {
+    "shop": "Shop & Learn",
+    "about": "About AppleVault",
+    "support": "Support",
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "copyright": "© 2025 AppleVault. All rights reserved.",
+    "disclaimer": "Apple, iPhone, Mac, AirPods and Apple Watch are trademarks of Apple Inc."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous"
+  },
+  "products": {
+    "iphone_15_pro_max": {
+      "tagline": "Titanium. So strong. So light. So Pro.",
+      "description": "iPhone 15 Pro Max features a strong and light titanium design with the A17 Pro chip, a customizable Action button, and the most powerful iPhone camera system ever."
+    },
+    "iphone_15_pro": {
+      "tagline": "Titanium. So strong. So light. So Pro.",
+      "description": "iPhone 15 Pro features a titanium design, the A17 Pro chip, a customizable Action button, and a powerful pro camera system in a more compact size."
+    },
+    "iphone_15": {
+      "tagline": "New camera. New design. Newphoria.",
+      "description": "iPhone 15 brings the Dynamic Island, a 48MP camera, and USB-C connectivity to the standard iPhone lineup with a gorgeous color-infused glass design."
+    },
+    "iphone_15_plus": {
+      "tagline": "New camera. New design. Newphoria.",
+      "description": "iPhone 15 Plus offers everything in iPhone 15, but with a larger 6.7-inch screen and the longest battery life ever in an iPhone."
+    },
+    "iphone_14": {
+      "tagline": "A total powerhouse.",
+      "description": "iPhone 14 features a 6.1-inch display, A15 Bionic chip, advanced dual-camera system, Crash Detection, and Emergency SOS via satellite."
+    },
+    "iphone_14_plus": {
+      "tagline": "Big and bigger.",
+      "description": "iPhone 14 Plus gives you a larger 6.7-inch display, all-day battery life, and advanced dual cameras powered by the A15 Bionic chip."
+    },
+    "mbp_16_m3_max": {
+      "tagline": "Mind-blowing. Head-turning.",
+      "description": "The 16-inch MacBook Pro with M3 Max chip delivers extraordinary performance for the most demanding pro workflows, with up to 128GB unified memory."
+    },
+    "mbp_14_m3_pro": {
+      "tagline": "More pro than ever.",
+      "description": "The 14-inch MacBook Pro with M3 Pro chip delivers exceptional performance and battery life in a portable pro notebook."
+    },
+    "mba_15_m3": {
+      "tagline": "Impressively big. Impossibly thin.",
+      "description": "MacBook Air 15-inch with M3 delivers incredible performance in a strikingly thin design, with a spacious Liquid Retina display."
+    },
+    "mba_13_m3": {
+      "tagline": "Lean. Mean. M3 machine.",
+      "description": "MacBook Air 13-inch with M3 is the world's best consumer laptop, offering supercharged performance with the M3 chip in an impossibly thin design."
+    },
+    "mba_13_m2": {
+      "tagline": "Supercharged by M2.",
+      "description": "MacBook Air 13-inch with M2 combines strong everyday performance, silent fanless design, and all-day battery life in an ultrathin aluminum enclosure."
+    },
+    "airpods_pro_2": {
+      "tagline": "Adaptive Audio. Now playing.",
+      "description": "AirPods Pro 2 feature the H2 chip, Adaptive Audio, Personalized Spatial Audio, and up to 2x more Active Noise Cancellation than the previous generation."
+    },
+    "airpods_max": {
+      "tagline": "A perfect balance of high-fidelity audio.",
+      "description": "AirPods Max combine a custom acoustic design with the Apple H1 chip for a breakthrough listening experience with Active Noise Cancellation and Spatial Audio."
+    },
+    "watch_ultra_2": {
+      "tagline": "Next-level adventure.",
+      "description": "Apple Watch Ultra 2 is the most capable Apple Watch ever, built for endurance, exploration, and adventure with the brightest Apple display."
+    },
+    "watch_series_9": {
+      "tagline": "Smarter. Brighter. Mightier.",
+      "description": "Apple Watch Series 9 features the S9 chip, a brighter display, and the new Double Tap gesture, making it the most powerful Apple Watch yet."
+    },
+    "magsafe_charger": {
+      "tagline": "Effortlessly attach and charge.",
+      "description": "The MagSafe Charger provides an efficient wireless charging experience with perfectly aligned magnets that snap to your iPhone."
+    },
+    "magic_keyboard": {
+      "tagline": "A keyboard that does more.",
+      "description": "Magic Keyboard with Touch ID delivers a remarkably comfortable typing experience with a built-in fingerprint sensor for secure authentication."
+    },
+    "airtag_4_pack": {
+      "tagline": "Track one. Track them all.",
+      "description": "AirTag 4 Pack helps you keep tabs on keys, bags, and more with Precision Finding, Lost Mode, and seamless Find My integration."
+    }
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "site": {
+    "title": "AppleVault - Premium Apple Experience",
+    "name": "AppleVault",
+    "tagline": "Премиальный опыт Apple"
+  },
+  "nav": {
+    "home": "Главная",
+    "catalog": "Каталог",
+    "iphones": "iPhone",
+    "macbooks": "Mac",
+    "accessories": "Аксессуары",
+    "cart": "Корзина",
+    "login": "Войти",
+    "register": "Регистрация",
+    "logout": "Выйти",
+    "language": "Язык",
+    "account": "Аккаунт",
+    "search": "Поиск товаров..."
+  },
+  "home": {
+    "hero": {
+      "title": "iPhone 15 Pro",
+      "subtitle": "Титан. Такой прочный. Такой легкий. Такой Pro.",
+      "cta": "Купить",
+      "secondary_cta": "Подробнее"
+    },
+    "categories": {
+      "title": "Изучите линейку",
+      "subtitle": "Найдите идеальное устройство Apple для себя"
+    },
+    "featured": {
+      "title": "Рекомендуемые товары",
+      "subtitle": "Подобрано нашей командой"
+    },
+    "banner": {
+      "title": "Trade In и экономия",
+      "subtitle": "Получите скидку на следующее устройство Apple при сдаче подходящего устройства.",
+      "cta": "Узнайте стоимость вашего устройства"
+    },
+    "why": {
+      "title": "Почему AppleVault?",
+      "reason1_title": "Бесплатная доставка",
+      "reason1_desc": "Бесплатная доставка всех заказов прямо к вашей двери.",
+      "reason2_title": "Советы экспертов",
+      "reason2_desc": "Наши специалисты помогут выбрать подходящий продукт.",
+      "reason3_title": "Легкий возврат",
+      "reason3_desc": "Не подошло? Верните в течение 14 дней.",
+      "reason4_title": "Безопасная оплата",
+      "reason4_desc": "Ваши данные защищены шифрованием промышленного уровня."
+    }
+  },
+  "categories": {
+    "iphones": "iPhone",
+    "iphones_desc": "Максимальный опыт смартфона",
+    "macbooks": "Mac",
+    "macbooks_desc": "Мощность, которая меняет всё",
+    "accessories": "Аксессуары",
+    "accessories_desc": "Дополните ваш набор"
+  },
+  "catalog": {
+    "title": "Покупка товаров",
+    "subtitle": "Просмотрите нашу полную коллекцию устройств Apple",
+    "all": "Все товары",
+    "filter": "Фильтр",
+    "sort": "Сортировать",
+    "sort_featured": "Рекомендуемые",
+    "sort_price_asc": "Цена: по возрастанию",
+    "sort_price_desc": "Цена: по убыванию",
+    "sort_name": "Название: A-Z",
+    "no_results": "Товары по вашему запросу не найдены.",
+    "loading": "Загрузка товаров...",
+    "items_found": "товаров найдено",
+    "price_range": "Диапазон цен",
+    "clear_filters": "Сбросить фильтры",
+    "quick_add": "Быстро добавить",
+    "view_details": "Подробнее",
+    "add_to_cart": "В корзину"
+  },
+  "product": {
+    "from": "От",
+    "add_to_cart": "В корзину",
+    "added_to_cart": "Добавлено в корзину!",
+    "select_color": "Цвет",
+    "select_storage": "Память",
+    "specifications": "Характеристики",
+    "display": "Дисплей",
+    "chip": "Чип",
+    "cpu": "CPU",
+    "gpu": "GPU",
+    "camera": "Камера",
+    "camera_main": "Основная",
+    "camera_ultrawide": "Ультраширокая",
+    "camera_telephoto": "Телефото",
+    "camera_front": "Фронтальная",
+    "camera_video": "Видео",
+    "ram": "Память",
+    "storage": "Хранилище",
+    "battery": "Аккумулятор",
+    "os": "Операционная система",
+    "weight": "Вес",
+    "dimensions": "Размеры",
+    "connectivity": "Подключение",
+    "water_resistance": "Влагозащита",
+    "security": "Безопасность",
+    "material": "Материал",
+    "related": "Вам также может понравиться",
+    "back_to_catalog": "Назад в каталог",
+    "in_the_box": "Что в коробке",
+    "overview": "Обзор",
+    "tech_specs": "Технические характеристики",
+    "battery_earbuds": "Наушники",
+    "battery_case": "Кейс",
+    "battery_charging": "Зарядка",
+    "battery_listening": "Прослушивание",
+    "spec_up_to": "До",
+    "spec_hours": "часов",
+    "spec_hours_video_playback": "часов воспроизведения видео",
+    "spec_low_power_mode": "режим энергосбережения",
+    "spec_peak_outdoor": "пиковая яркость на улице",
+    "spec_peak_hdr": "пиковая HDR",
+    "spec_peak_xdr": "пиковая XDR"
+  },
+  "cart": {
+    "title": "Ваша корзина",
+    "empty": "Ваша корзина пуста",
+    "empty_desc": "Похоже, вы еще ничего не добавили.",
+    "continue_shopping": "Продолжить покупки",
+    "remove": "Удалить",
+    "quantity": "Кол-во",
+    "subtotal": "Промежуточный итог",
+    "shipping": "Доставка",
+    "shipping_free": "БЕСПЛАТНО",
+    "tax": "Оценка налога",
+    "total": "Итого",
+    "checkout": "Оформить заказ",
+    "item": "товар",
+    "items": "товара",
+    "clear_cart": "Очистить корзину",
+    "order_summary": "Сводка заказа"
+  },
+  "auth": {
+    "login_title": "Вход",
+    "login_subtitle": "Войдите в аккаунт AppleVault",
+    "register_title": "Создать аккаунт",
+    "register_subtitle": "Присоединяйтесь к AppleVault для лучшего опыта",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "confirm_password": "Подтвердите пароль",
+    "first_name": "Имя",
+    "last_name": "Фамилия",
+    "remember_me": "Запомнить меня",
+    "forgot_password": "Забыли пароль?",
+    "login_btn": "Войти",
+    "register_btn": "Создать аккаунт",
+    "no_account": "Нет аккаунта?",
+    "has_account": "Уже есть аккаунт?",
+    "create_one": "Создать",
+    "sign_in": "Войти",
+    "login_success": "Вход выполнен успешно!",
+    "register_success": "Аккаунт успешно создан!",
+    "login_error": "Неверный email или пароль.",
+    "register_error": "Не удалось зарегистрироваться. Попробуйте снова.",
+    "passwords_mismatch": "Пароли не совпадают.",
+    "forgot_password_email_required": "Сначала введите email, затем нажмите Забыли пароль?.",
+    "forgot_password_sent": "Письмо для сброса пароля отправлено. Проверьте почту."
+  },
+  "checkout": {
+    "title": "Оформление заказа",
+    "subtitle": "Проверьте заказ и введите данные доставки.",
+    "empty_title": "Ваша корзина пуста",
+    "empty_desc": "Добавьте товары в корзину перед оформлением.",
+    "shipping_title": "Информация о доставке",
+    "full_name": "Полное имя",
+    "phone": "Телефон",
+    "address1": "Адрес (строка 1)",
+    "address2": "Адрес (строка 2, необязательно)",
+    "city": "Город",
+    "country": "Страна",
+    "zip": "Почтовый индекс",
+    "payment_title": "Способ оплаты",
+    "payment_cash": "Оплата при доставке",
+    "payment_card": "Карта",
+    "cardholder": "Имя владельца карты",
+    "card_number": "Номер карты",
+    "card_expiry": "Срок действия",
+    "card_cvc": "CVC",
+    "place_order": "Оформить заказ",
+    "processing": "Обработка...",
+    "required_error": "Пожалуйста, заполните все обязательные поля.",
+    "card_required_error": "Пожалуйста, заполните все поля карты.",
+    "success": "Заказ успешно оформлен"
+  },
+  "account": {
+    "title": "Мой аккаунт",
+    "order": "Заказ",
+    "no_orders_title": "Заказов пока нет",
+    "no_orders_desc": "После оформления заказа он появится здесь."
+  },
+  "footer": {
+    "shop": "Покупки и обучение",
+    "about": "О AppleVault",
+    "support": "Поддержка",
+    "contact": "Связаться с нами",
+    "privacy": "Политика конфиденциальности",
+    "terms": "Условия использования",
+    "copyright": "© 2025 AppleVault. Все права защищены.",
+    "disclaimer": "Apple, iPhone, Mac, AirPods и Apple Watch являются товарными знаками Apple Inc."
+  },
+  "common": {
+    "loading": "Загрузка...",
+    "error": "Что-то пошло не так",
+    "retry": "Повторить",
+    "close": "Закрыть",
+    "back": "Назад",
+    "next": "Далее",
+    "previous": "Предыдущий"
+  },
+  "products": {
+    "iphone_15_pro_max": {
+      "tagline": "Титан. Такой прочный. Такой легкий. Такой Pro.",
+      "description": "iPhone 15 Pro Max сочетает легкий и прочный титановый корпус, чип A17 Pro, настраиваемую кнопку Action и самую мощную систему камер iPhone."
+    },
+    "iphone_15_pro": {
+      "tagline": "Титан. Такой прочный. Такой легкий. Такой Pro.",
+      "description": "iPhone 15 Pro получил титановый дизайн, чип A17 Pro, настраиваемую кнопку Action и мощную профессиональную камеру в более компактном корпусе."
+    },
+    "iphone_15": {
+      "tagline": "Новая камера. Новый дизайн. Newphoria.",
+      "description": "iPhone 15 приносит Dynamic Island, 48 МП камеру и USB-C в базовую линейку iPhone с красивым цветным стеклянным дизайном."
+    },
+    "iphone_15_plus": {
+      "tagline": "Новая камера. Новый дизайн. Newphoria.",
+      "description": "iPhone 15 Plus предлагает все возможности iPhone 15, но с большим экраном 6,7 дюйма и самой долгой автономностью среди iPhone."
+    },
+    "iphone_14": {
+      "tagline": "Настоящая мощь.",
+      "description": "iPhone 14 оснащен 6,1-дюймовым дисплеем, чипом A15 Bionic, продвинутой двойной камерой, Crash Detection и Emergency SOS через спутник."
+    },
+    "iphone_14_plus": {
+      "tagline": "Большой и еще больше.",
+      "description": "iPhone 14 Plus предлагает увеличенный 6,7-дюймовый дисплей, автономность на весь день и продвинутые двойные камеры на базе A15 Bionic."
+    },
+    "mbp_16_m3_max": {
+      "tagline": "Потрясает. Притягивает взгляд.",
+      "description": "16-дюймовый MacBook Pro с чипом M3 Max обеспечивает выдающуюся производительность для самых требовательных профессиональных задач, до 128 ГБ объединенной памяти."
+    },
+    "mbp_14_m3_pro": {
+      "tagline": "Еще более Pro, чем раньше.",
+      "description": "14-дюймовый MacBook Pro с чипом M3 Pro дает исключительную производительность и автономность в портативном профессиональном ноутбуке."
+    },
+    "mba_15_m3": {
+      "tagline": "Впечатляюще большой. Невероятно тонкий.",
+      "description": "MacBook Air 15 с M3 обеспечивает высокую производительность в поразительно тонком корпусе и с большим дисплеем Liquid Retina."
+    },
+    "mba_13_m3": {
+      "tagline": "Легкий. Мощный. M3.",
+      "description": "MacBook Air 13 с M3 - отличный ноутбук для повседневных задач, предлагающий высокую производительность в сверхтонком дизайне."
+    },
+    "mba_13_m2": {
+      "tagline": "Ускорен чипом M2.",
+      "description": "MacBook Air 13 с M2 сочетает уверенную повседневную производительность, бесшумную работу без вентилятора и длительную автономность в тонком алюминиевом корпусе."
+    },
+    "airpods_pro_2": {
+      "tagline": "Adaptive Audio. Уже звучит.",
+      "description": "AirPods Pro 2 получили чип H2, Adaptive Audio, Personalized Spatial Audio и значительно улучшенное активное шумоподавление по сравнению с прошлым поколением."
+    },
+    "airpods_max": {
+      "tagline": "Идеальный баланс звука высокой четкости.",
+      "description": "AirPods Max объединяют продуманную акустику и чип Apple H1 для прорывного звучания с Active Noise Cancellation и Spatial Audio."
+    },
+    "watch_ultra_2": {
+      "tagline": "Приключения нового уровня.",
+      "description": "Apple Watch Ultra 2 - самые функциональные Apple Watch, созданные для выносливости, исследований и приключений, с самым ярким дисплеем Apple."
+    },
+    "watch_series_9": {
+      "tagline": "Умнее. Ярче. Мощнее.",
+      "description": "Apple Watch Series 9 получили чип S9, более яркий дисплей и жест Double Tap, делая их самыми мощными Apple Watch на сегодня."
+    },
+    "magsafe_charger": {
+      "tagline": "Легко прикрепить и зарядить.",
+      "description": "Зарядка MagSafe обеспечивает эффективную беспроводную зарядку благодаря точно выровненным магнитам, которые фиксируются на iPhone."
+    },
+    "magic_keyboard": {
+      "tagline": "Клавиатура, которая умеет больше.",
+      "description": "Magic Keyboard с Touch ID обеспечивает комфортный набор текста и встроенный сканер отпечатка для безопасной аутентификации."
+    },
+    "airtag_4_pack": {
+      "tagline": "Отслеживайте одну вещь. Или все сразу.",
+      "description": "Комплект AirTag 4 Pack помогает отслеживать ключи, сумки и другое с Precision Finding, Lost Mode и удобной интеграцией с Find My."
+    }
+  }
+}
