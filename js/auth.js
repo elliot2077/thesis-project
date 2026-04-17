@@ -218,11 +218,31 @@ function bindForgotPassword() {
     hideAuthError();
     try {
       const auth = getFirebaseAuth();
-      await sendPasswordResetEmail(auth, email);
+      // Send users back to login after resetting to keep the flow predictable.
+      const actionCodeSettings = {
+        url: `${window.location.origin}/login.html`,
+        handleCodeInApp: false,
+      };
+
+      await sendPasswordResetEmail(auth, email, actionCodeSettings);
       showToast(t("auth.forgot_password_sent"));
     } catch (error) {
       console.error("Password reset failed:", error);
-      showAuthError(error.message || t("auth.register_error"));
+
+      const messageByCode = {
+        "auth/user-not-found": "No account exists for this email.",
+        "auth/invalid-email": "Please enter a valid email address.",
+        "auth/missing-email": t("auth.forgot_password_email_required"),
+        "auth/too-many-requests": "Too many attempts. Please try again later.",
+        "auth/unauthorized-continue-uri":
+          "This site domain is not allowed in Firebase Auth settings.",
+        "auth/invalid-continue-uri":
+          "This site domain is not allowed in Firebase Auth settings.",
+      };
+
+      showAuthError(
+        messageByCode[error?.code] || error.message || t("auth.register_error"),
+      );
     }
   });
 }
