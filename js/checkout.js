@@ -13,6 +13,10 @@ const TAX_RATE = 0.08;
 const emailjsConfig = window.APPLEVAULT_EMAILJS_CONFIG || null;
 let emailjsInitialized = false;
 
+function isPlaceholder(value) {
+  return String(value || "").includes("YOUR_");
+}
+
 function calculateTotals(cart) {
   const subtotal = cart.reduce(
     (sum, item) => sum + item.price * item.quantity,
@@ -194,7 +198,10 @@ function canSendEmailNotifications() {
     window.emailjs &&
     emailjsConfig?.publicKey &&
     emailjsConfig?.serviceId &&
-    emailjsConfig?.templateId,
+    emailjsConfig?.templateId &&
+    !isPlaceholder(emailjsConfig.publicKey) &&
+    !isPlaceholder(emailjsConfig.serviceId) &&
+    !isPlaceholder(emailjsConfig.templateId),
   );
 }
 
@@ -296,6 +303,14 @@ function bindCheckoutForm() {
         await sendOrderEmail(order);
       } catch (emailError) {
         console.warn("Order email notification failed:", emailError);
+      }
+
+      if (!canSendEmailNotifications()) {
+        showToast(
+          "Order placed. Add EmailJS keys in checkout.html to enable order emails.",
+          "warning",
+          4500,
+        );
       }
 
       showToast(`${t("checkout.success")} #${order.id}`, "success", 3500);
