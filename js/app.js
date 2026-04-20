@@ -291,6 +291,7 @@ function updateAuthUI() {
   const logoutBtn = document.getElementById("logout-btn");
   const navActions = document.querySelector(".nav__actions");
   const mobileMenu = document.getElementById("mobile-menu");
+  const mobileAuthLink = mobileMenu?.querySelector('a[href="login.html"]');
 
   const user = getCurrentUser();
 
@@ -309,6 +310,23 @@ function updateAuthUI() {
     mobileAccountLink.href = "account.html";
     mobileAccountLink.id = "mobile-account-link";
     mobileMenu.appendChild(mobileAccountLink);
+    mobileAccountLink.addEventListener("click", () => {
+      mobileMenu.classList.remove("nav__mobile-menu--open");
+    });
+  }
+
+  let mobileLogoutLink = document.getElementById("mobile-logout-link");
+  if (!mobileLogoutLink && mobileMenu) {
+    mobileLogoutLink = document.createElement("a");
+    mobileLogoutLink.href = "#";
+    mobileLogoutLink.id = "mobile-logout-link";
+    mobileMenu.appendChild(mobileLogoutLink);
+    mobileLogoutLink.addEventListener("click", async (e) => {
+      e.preventDefault();
+      mobileMenu.classList.remove("nav__mobile-menu--open");
+      await logoutUser();
+      window.location.href = "index.html";
+    });
   }
 
   if (authLink) {
@@ -328,6 +346,13 @@ function updateAuthUI() {
   if (mobileAccountLink) {
     mobileAccountLink.style.display = user ? "block" : "none";
     mobileAccountLink.textContent = t("nav.account");
+  }
+  if (mobileAuthLink) {
+    mobileAuthLink.style.display = user ? "none" : "block";
+  }
+  if (mobileLogoutLink) {
+    mobileLogoutLink.style.display = user ? "block" : "none";
+    mobileLogoutLink.textContent = t("nav.logout");
   }
 }
 
