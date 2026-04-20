@@ -301,15 +301,15 @@ function bindCheckoutForm() {
 
       try {
         await sendOrderEmail(order);
+        showToast("Order email sent successfully.", "success", 2500);
       } catch (emailError) {
         console.warn("Order email notification failed:", emailError);
-      }
-
-      if (!canSendEmailNotifications()) {
         showToast(
-          "Order placed. Add EmailJS keys in checkout.html to enable order emails.",
-          "warning",
-          4500,
+          emailError?.text ||
+            emailError?.message ||
+            "EmailJS failed to send the order email.",
+          "error",
+          5000,
         );
       }
 
