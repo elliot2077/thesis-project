@@ -82,6 +82,7 @@
 }
 
 .cart-item__price {
+  display: none;
   font-size: var(--font-size-base);
   font-weight: 600;
   color: var(--color-text-primary);
@@ -274,8 +275,14 @@
   }
 
   .cart-item {
-    grid-template-columns: 80px 1fr;
+    grid-template-columns: 1fr;
     gap: var(--space-md);
+    align-items: start;
+  }
+
+  .cart-item__image {
+    width: 88px;
+    height: 88px;
   }
 
   .cart-item__actions {
